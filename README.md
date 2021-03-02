@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/boltomli">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=boltomli" height="230"/>
+</a>
+<a href="https://github.com/boltomli">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=boltomli&show_icons=true" height="230"/>
+</a>
