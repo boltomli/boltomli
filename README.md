@@ -15,9 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/boltomli">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=boltomli" height="230"/>
-</a>
-<a href="https://github.com/boltomli">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=boltomli&show_icons=true" height="230"/>
-</a>
+![Metrics](https://metrics.lecoq.io/boltomli?template=classic&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FShanghai)
